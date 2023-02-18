@@ -1,4 +1,4 @@
- Web 3.0 Blockchain Application
+## Web 3.0 Blockchain Application
 <!--![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
 ## Introduction
@@ -13,3 +13,4 @@ Want me to cover the project you've created? Send me an e-mail 👌
 
 ## Launch your development career with project-based coaching - https://www.jsmastery.pro
 -->
+Examine the cryptosphere. METAVERSEPG makes it simple to buy and trade cryptocurrency.
